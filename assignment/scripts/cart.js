@@ -28,3 +28,4 @@ function empty (clear) {
 empty();
 console.log(basket);
 
+const maxItems = 5
